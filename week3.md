@@ -135,6 +135,7 @@ __A more advanced Git workflow__ - In this schematic of a git workflow, the proj
 	  - Now go back to your fork of the repository on GitHub and click the green `Clone or download` button in the upper right.
 		- Click the blue `Use HTTPS` link in the upper right of the dropdown menu
 		- Copy the URL that GitHub provides, which starts https://github.com/...
+		- Now navigate to the place on your computer where you want to store your repository (e.g., the desktop) and run `git clone <GITHUB_URL>`
  - You should now have a complete version of the "LAFauna" repository on your computer. Use `cd` to change directories into your repository folder.
  - Go ahead and pair up into groups of two. Each group will then be assigned one of the groups of animals. You will need to do a few things for your group:
 	 - First, make a new branch with a name that indicates which group you're working on and checkout that branch.
